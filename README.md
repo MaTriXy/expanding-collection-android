@@ -1,9 +1,11 @@
 ![header](./header.png)
-![Animation](./preview.gif)
+<img src="https://github.com/Ramotion/expanding-collection-android/blob/master/preview.gif" width="600" height="450" />
+<br><br/>
 
 
 # ExpandingCollection for Android
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/Ramotion)
 
 # Check this library on other platforms:
 <a href="https://github.com/Ramotion/expanding-collection"> 
@@ -12,12 +14,12 @@
 **Looking for developers for your project?**<br>
 This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=gliding-collection-contact-us/#Get_in_Touch"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
 
 
 
-The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=expanding-collection-android) available [here](https://store.ramotion.com/product/htc-one-a9-mockups?utm_source=gthb&utm_medium=special&utm_campaign=expanding-collection-android).
+The [Android mockup](https://store.ramotion.com/product/htc-one-a9-mockup?utm_source=gthb&utm_medium=special&utm_campaign=expanding-collection-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=expanding-collection-android).
 
 ## Requirements
 ​
@@ -229,6 +231,10 @@ public class MainActivity extends Activity {
 
 You can find this and other, more complex, examples in this repository ​
 
+<br>
+
+This library is a part of a <a href="https://github.com/Ramotion/android-ui-animation-components-and-libraries"><b>selection of our best UI open-source projects.</b></a>
+
 ## Licence
 ​
 Expanding Collection is released under the MIT license.
@@ -241,12 +247,12 @@ Try our UI components in our mobile app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://raw.githubusercontent.com/Ramotion/react-native-circle-menu/master/google_play@2x.png" width="104" height="34"></a>
-<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=expending-collection-contact-us/#Get_in_Touch"> 
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github"> 
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
 
 Follow us for the latest updates 
 <br>
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/expanding-collection-android)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
