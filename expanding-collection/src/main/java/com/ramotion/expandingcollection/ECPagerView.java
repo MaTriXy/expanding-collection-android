@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Point;
 import android.os.Build;
-import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.MotionEvent;
@@ -17,6 +16,7 @@ import android.widget.RelativeLayout;
 
 import java.util.List;
 
+import androidx.viewpager.widget.ViewPager;
 import ramotion.com.expandingcollection.R;
 
 /**
@@ -141,7 +141,8 @@ public class ECPagerView extends FrameLayout implements ViewPager.OnPageChangeLi
 
             // change current image from cache or reinitialize it from resource
             BackgroundBitmapCache instance = BackgroundBitmapCache.getInstance();
-            if (instance.getBitmapFromBgMemCache(position) != null) {
+            Integer mainBgImageDrawableResource = pager.getDataFromAdapterDataset(position).getMainBackgroundResource();
+            if (instance.getBitmapFromBgMemCache(mainBgImageDrawableResource) != null) {
                 attachedImageSwitcher.updateCurrentBackground(pager, direction);
             } else {
                 attachedImageSwitcher.updateCurrentBackgroundAsync(pager, direction);
